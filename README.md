@@ -1,4 +1,4 @@
-This Notebook explores the **Occupancy Detection Data Set** and builds upon the excellent work of Omer Turksoy, published in Kaggle ([HVAC Occupancy Detection with ML and DL Methods](https://www.kaggle.com/turksoyomer/hvac-occupancy-detection-with-ml-and-dl-methods).
+This Notebook explores the **Occupancy Detection Data Set** and builds upon the excellent work of Omer Turksoy, published in Kaggle ([HVAC Occupancy Detection with ML and DL Methods](https://www.kaggle.com/turksoyomer/hvac-occupancy-detection-with-ml-and-dl-methods)).
 
 Occupancy data comes into three parts: `dataset.txt`, `dataset2.txt`, and `datatraining.txt`. The latter should be used for model training, and the others - for model validation and testing, respectively. Ground-truth occupancy was obtained from time stamped pictures taken every minute. Datasets hold information about room properties, e.g., temperature, humidity, CO2, etc. Predictions could be used by companies and property managers to plan Heating, Ventilating and Air Conditioning (HVAC). 
 
